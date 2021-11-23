@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+input,
+select,
+option,
+p,
+th,
+td {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body {
+  text-size-adjust: none;
+  user-select: none;
+  color: #323232;
+  max-width: 750px;
+  margin: 0 auto !important;
+}
+i,
+b,
+em {
+  font-style: normal;
+  font-weight: normal;
+}
+img {
+  border: 0;
+  vertical-align: middle;
+}
+li,
+ol,
+ul {
+  list-style-type: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+  font-size: 100%;
+}
+[v-cloak] {
+  display: none;
+}
+input:focus {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
