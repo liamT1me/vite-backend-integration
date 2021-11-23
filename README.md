@@ -1,7 +1,7 @@
 # 基于vite的后端集成实现方案
 
 <p>
-  技术栈 <a href="https://cn.vitejs.dev/">vite</a>,<a href="https://rollupjs.org/guide/en/">rollup</a>, <a href="https://yarnpkg.com/">Yarn</a>,<a  href="https://github.com/sdc-alibaba/SUI-Mobile">sui-mobile</a>，目前官网已经停止维护，<a href="https://www.wenjiangs.com/doc/base-markup"> 查看使用教程看这个</a> <a href="https://github.com/sentsin/layui/issues/981">layui相关</a>
+  技术栈 <a href="https://cn.vitejs.dev/">vite</a>,<a href="https://rollupjs.org/guide/en/">rollup</a>, <a href="https://yarnpkg.com/">Yarn</a>
 </p>
 
 ## 开发
