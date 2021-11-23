@@ -1,4 +1,4 @@
-# 基于vite的后端集成实现方案
+# 基于vite的后端集成
 
 <p>
   技术栈 <a href="https://cn.vitejs.dev/">vite</a>,<a href="https://rollupjs.org/guide/en/">rollup</a>, <a href="https://yarnpkg.com/">Yarn</a>
